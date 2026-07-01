@@ -1,0 +1,173 @@
+[{
+    "id" : 1,
+    "category": "Laptop",
+    "title" : "Laptop ASUS Gaming",
+    "mainImage" : "photos/photo_4.png",
+    "price" : "1200,00$",
+    "information" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+}, 
+{
+    "id" : 2,
+    "category": "Laptop",
+    "title" : "Laptop MSI Gaming",
+    "mainImage": "photos/photo_8.png",
+    "price" : "1800,00$",
+    "information" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+        "id" : 3,
+    "category": "Laptop",
+    "title" : "Laptop ASUS",
+    "mainImage": "photos/photo_13.png",
+    "price" : "600,00$",
+    "information" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    "id" : 4,
+    "category": "Laptop",
+    "title" : "Laptop HP",
+    "mainImage": "photos/photo_14.png",
+    "price" : "670,00$",
+    "information" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+        "id" : 5,
+    "category": "Laptop",
+    "title" : "Laptop DELL Gaming",
+    "mainImage": "photos/photo_15.png",
+    "price" : "1044,00$",
+    "information" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+        "id" : 6,
+    "category": "Laptop",
+    "title" : "Laptop ASUS Gaming Ultra",
+    "mainImage": "photos/photo_16.png",
+    "price" : "987,22$",
+    "information" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    "id" : 7,
+    "category" : "Earphones",
+    "title" : "Ear Phone 1",
+    "mainImage" : "photos/photo_5.png",
+    "price" : "41,00$",
+    "information" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    "id" : 8,
+    "category" : "Earphones",
+    "title" : "Ear Phone 2",
+    "mainImage" : "photos/photo_10.png",
+    "price" : "56,00$",
+    "information" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    "id" : 9,
+    "category" : "Earphones",
+    "title" : "Ear Phone 3",
+    "mainImage" : "photos/photo_17.png",
+    "price" : "22,33$",
+    "information" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    "id" : 10,
+    "category" : "Earphones",
+    "title" : "Ear Phone 4",
+    "mainImage" : "photos/photo_19.png",
+    "price" : "27,20$",
+    "information" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    "id" : 11,
+    "category" : "Earphones",
+    "title" : "Ear Phone 5",
+    "mainImage" : "photos/photo_20.png",
+    "price" : "22,00$",
+    "information" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    "id" : 12,
+    "category" : "Earphones",
+    "title" : "Ear Phone 6",
+    "mainImage" : "photos/photo_21.png",
+    "price" : "19,50$",
+    "information" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    "id" : 13,
+    "category" : "Headphone",
+    "title" : "head Phone 1 ",
+    "mainImage" : "photos/photo_6.png",
+    "price" : "34,70$",
+    "information" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    "id" : 14,
+    "category" : "Headphone",
+    "title" : "head Phone 2 ",
+    "mainImage" : "photos/photo_9.png",
+    "price" : "81,65$",
+    "information" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    
+    "id" : 15,
+    "category" : "Headphone",
+    "title" : "head Phone 3",
+    "mainImage" : "photos/photo_22.png",
+    "price" : "12,30$",
+    "information" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    
+    "id" : 16,
+    "category" : "Headphone",
+    "title" : "head Phone 4",
+    "mainImage" : "photos/photo_23.png",
+    "price" : "55,00$",
+    "information" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    
+    "id" : 17,
+    "category" : "Headphone",
+    "title" : "head Phone 5",
+    "mainImage" : "photos/photo_24.png",
+    "price" : "12,00$",
+    "information" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    
+    "id" : 18,
+    "category" : "Headphone",
+    "title" : "head Phone 6",
+    "mainImage" : "photos/photo_25.png",
+    "price" : "87,45$",
+    "information" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    "id" : 19,
+    "category" : "Phone",
+    "title" : "Iphone 13 Pro Max",
+    "mainImage" : "photos/photo_7.png",
+    "price" : "290,90$",
+    "information" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    "id" : 20,
+    "category" : "Phone",
+    "title" : "One Plus",
+    "mainImage" : "photos/photo_11.png",
+    "price" : "892,00$",
+    "information" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+},
+{
+    "id" : 21,
+    "category" : "Phone",
+    "title" : "OPPO Find X8 Pro",
+    "mainImage" : "photos/photo_12.png",
+    "price" : "992,00$",
+    "information" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima nostrum magnam."
+}
+]
